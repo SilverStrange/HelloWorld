@@ -1,7 +1,7 @@
 # Hello World - Ruby/Gem
 **Ruby Version:**   2.6.1
 
-A simple hello world gem named 'hola'. Built by following the RubyGem's guide: [Make Your Own Gem](https://guides.rubygems.org/make-your-own-gem/).
+A simple [hello world gem](https://silverstrange.github.io/2019/04/18/my-first-ruby-gem.html) named 'hola'. Built by following the RubyGem's guide: [Make Your Own Gem](https://guides.rubygems.org/make-your-own-gem/).
 
 To use, add the following to your gem file:
 
@@ -25,7 +25,6 @@ Hola.hi
 
 Expected output:
 ```
-Hello world!                                                                                                             
+Hello world!
  => nil
 ```
-
